@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Mustafa Shf</h1>
 <h3 align="center">A passionate frontend developer from Pakistan</h3>
-<img  align="right" alt="Coding" width="400"  src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" alt="">
+<img  align="right" alt="Coding" width="400"  src="https://camo.githubusercontent.com/337869fc265db715bc53051fde314a89ceca0b18719f672ce90b57ff305ba460/68747470733a2f2f6d65646961312e67697068792e636f6d2f6d656469612f31334867774773584630616947592f67697068792e676966 alt="">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mustafashf&label=Profile%20views&color=0e75b6&style=flat" alt="mustafashf" /> </p>
 
 - 🔭 I’m currently working on [RailGarri](https://github.com/MustafaShf/RailGarri.git)
