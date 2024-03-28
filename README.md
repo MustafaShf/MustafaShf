@@ -8,7 +8,7 @@
 
 - 📫 How to reach me **itsmustafashafique@gmail.com**
 
-- <h3 align="left">About Me:</h3>
+<h3 align="left">About Me:</h3>
 <ul>
     <li>🎓 Studying towards a Bachelor of Software Engineering.</li>
     <li>📚 Currently in my Second Semester.</li>
