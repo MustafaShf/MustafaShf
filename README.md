@@ -8,6 +8,24 @@
 
 - 📫 How to reach me **itsmustafashafique@gmail.com**
 
+- <h3 align="left">About Me:</h3>
+<ul>
+    <li>🎓 Studying towards a Bachelor of Software Engineering.</li>
+    <li>📚 Currently in my Second Semester.</li>
+    <li>🌟 Dedicated to continuous learning and enhancing my skills.</li>
+    <li>✨ Proficient in HTML, CSS, JavaScript, and C++.</li>
+    <li>⚡ Excited about modern web development using React.js</li>
+</ul>
+
+<h3 align="left">Skills:</h3>
+<ul>
+    <li>Front-end Development: HTML, CSS, JavaScript</li>
+    <li>Frameworks: Tailwind, Bootstrap</li>
+    <li>Programming Languages: C++, JavaScript</li>
+    <li>Database: SQL</li>
+    <li>Version Control: Git, GitHub</li>
+</ul>
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/mustafashf" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mustafashf" height="30" width="40" /></a>
