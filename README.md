@@ -30,7 +30,7 @@
 <p align="left">
 <a href="https://linkedin.com/in/mustafashf" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mustafashf" height="30" width="40" /></a>
 <a href="https://fb.com/mustafashfofficial" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="mustafashfofficial" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/mustafashf" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leetcode.svg" alt="mustafashf" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/mustafashf" target="blank"><img align="center" src="https://user-images.githubusercontent.com/63964149/152531278-5e01909d-0c2e-412a-8acc-4a06863c244d.png" alt="mustafashf" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
