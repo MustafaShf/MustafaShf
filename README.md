@@ -1,29 +1,16 @@
 <h1 align="center">Hi 👋, I'm Mustafa Shf</h1>
-<h3 align="center">A passionate frontend developer from Pakistan</h3>
+<h3 align="center">A developer from Pakistan</h3>
 <img  align="right" alt="Coding" width="400"  src="https://camo.githubusercontent.com/337869fc265db715bc53051fde314a89ceca0b18719f672ce90b57ff305ba460/68747470733a2f2f6d65646961312e67697068792e636f6d2f6d656469612f31334867774773584630616947592f67697068792e676966" alt="mustafashf" /> </p>
-
-- 🔭 I’m currently working ApexGeeks
-
-- 🌱 I’m currently learning **Web Development**
 
 - 📫 How to reach me **itsmustafashafique@gmail.com**
 
 <h3 align="left">About Me:</h3>
 <ul>
     <li>🎓 Studying towards a Bachelor of Software Engineering.</li>
-    <li>📚 Currently in my Second Semester.</li>
+    <li>📚 Currently in my Fourth Semester.</li>
     <li>🌟 Dedicated to continuous learning and enhancing my skills.</li>
-    <li>✨ Proficient in HTML, CSS, JavaScript, and C++.</li>
-    <li>⚡ Excited about modern web development using React.js</li>
-</ul>
-
-<h3 align="left">Skills:</h3>
-<ul>
-    <li>Front-end Development: HTML, CSS, JavaScript</li>
-    <li>Frameworks: Tailwind, Bootstrap</li>
-    <li>Programming Languages: C++, JavaScript</li>
-    <li>Database: SQL</li>
-    <li>Version Control: Git, GitHub</li>
+    <li>✨ Proficient in Javascript, React, Vue, Node, Express, Shopify.</li>
+    <li>⚡ Excited about modern web architectures</li>
 </ul>
 
 <h3 align="left">Connect with me:</h3>
